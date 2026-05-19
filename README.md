@@ -174,7 +174,7 @@ Dataset yang digunakan berupa 20 dokumen PDF bertema teknik informatika, seperti
 
 # 👨‍💻 Author
 
-Nama: [Nama Kamu]  
+Nama: Yosi Briyan Saputro  
 Mata Kuliah: Information Retrieval  
 Semester: 6  
 Metode: Probabilistic Model BM25
